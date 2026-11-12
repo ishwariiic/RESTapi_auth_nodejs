@@ -22,7 +22,7 @@ A secure REST API authentication system built with Node.js, Express, and JWT tok
 
 ```bash
 # Clone the repository
-git clone https://github.com/prasannazzz/RESTapi_auth_nodejs.git
+git clone https://github.com/ishwariiic/RESTapi_auth_nodejs.git
 cd RESTapi_auth_nodejs
 
 # Install dependencies
@@ -185,10 +185,10 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## Support
 
 If you have any questions or run into issues, please:
-1. Check the existing [GitHub Issues](https://github.com/prasannazzz/RESTapi_auth_nodejs/issues)
+1. Check the existing [GitHub Issues](https://github.com/ishwariiic/RESTapi_auth_nodejs/issues)
 2. Create a new issue with detailed information about your problem
 
 ---
 
-**Author**: Prasanna Patil  
+**Author**: Ishwari Chaudhari
 **Version**: 1.0.0
